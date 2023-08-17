@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>270002353708-tjd7l0qte8acfjvqed0j0q9p2oici5ia.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.270002353708-tjd7l0qte8acfjvqed0j0q9p2oici5ia</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCZ09WVXWrDUArkZu-k0kkLtTJA4Lb46c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>270002353708</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.counterappRivepod.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>counterapp-628f5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>counterapp-628f5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:270002353708:ios:fb05a130b2e89a48b00389</string>
+</dict>
+</plist>

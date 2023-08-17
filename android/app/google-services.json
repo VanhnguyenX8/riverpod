@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270002353708",
+    "project_id": "counterapp-628f5",
+    "storage_bucket": "counterapp-628f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270002353708:android:d48522a92c61b946b00389",
+        "android_client_info": {
+          "package_name": "com.example.counterapp_rivepod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270002353708-7ts6fk0hb3p7mcfo8lgb95b07lqm3sjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI4uG7x89ONDbS8_m8NrEoVGBoxCsLpnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270002353708-7ts6fk0hb3p7mcfo8lgb95b07lqm3sjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
